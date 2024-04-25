@@ -11,3 +11,6 @@ Esta é uma linha de código em PHP.
 ~~~html
 Esta é uma linha de código em HTML.
 ~~~
+~~~Python
+Esta é uma linha de código em Python.
+~~~
